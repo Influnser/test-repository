@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   const greeting = "Это тестовый проект Журбин Никита Сергеевич";
-
+  const greeting = "Обновленный текст для проверки деплоя"
   return (
     <div className="App">
      <header className="App-header">
